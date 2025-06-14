@@ -1,0 +1,16 @@
+<TIMESTAMP><ID_SENSOR><VALOR>
+100 sensor_temp 2.98
+95 sensor_vibr 3.24
+85 sensor_pres 5.88
+75 sensor_temp 7.98
+65 sensor_vibr 5.24
+55 sensor_pres 4.88
+45 sensor_temp 8.98
+35 sensor_vibr 2.24
+25 sensor_pres 3.88
+15 sensor_temp 5.98
+14 sensor_vibr 6.24
+13 sensor_pres 7.88
+12 sensor_temp 9.98
+11 sensor_vibr 1.24
+10 sensor_pres 2.88
